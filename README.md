@@ -14,7 +14,7 @@
 Official PyTorch implementation of **Safety-Guided Flow (SGF)**, as presented in our paper: \
 \
 **Safety-Guided Flow (SGF): A Unified Framework for Negative Guidance in Safe Generation (ICLR2026)** \
-Mingyu Kim, Young-Heon Kim, and Mijung Park 
+Mingyu Kim, Young-Heon Kim and Mijung Park 
 
 ---
 
