@@ -16,6 +16,8 @@ Official PyTorch implementation of **Safety-Guided Flow (SGF)**, as presented in
 **Safety-Guided Flow (SGF): A Unified Framework for Negative Guidance in Safe Generation (ICLR2026)** \
 Mingyu Kim, Young-Heon Kim and Mijung Park 
 
+<img src="assets/teaser.png" width="100%">  
+
 ---
 
 ## Update
@@ -25,7 +27,7 @@ Mingyu Kim, Young-Heon Kim and Mijung Park
 
 ---
 
-## Run
+## How to Run
 
 - **Safety (SD-v1.4)**: see [`nudity_sdv1/README.md`](nudity_sdv1/README.md)
 - **Memorization (SD-v2.1)**: see [`memorized_sdv21/README.md`](memorized_sdv21/README.md)
