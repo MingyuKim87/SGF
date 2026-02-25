@@ -1,0 +1,20 @@
+repellency:
+  method: kernel_fast
+  n_embed: 12
+  guidance_scale : 0.0
+  params:
+    sigma : 3.55
+    scale: 3.0e-2
+    proj_ref_path : "caches/sd/i2p/repellency_proj_ref.pt"
+    cache_proj_ref : True
+
+# repellency dataset
+data:
+  name: inappropriate
+  root: datasets/inappropriate
+  class_info : i2p
+
+# pred_xstart
+mean_processor:
+  dynamic_threshold: False
+  clip_denoised: True

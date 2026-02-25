@@ -1,0 +1,20 @@
+repellency:
+  method: spell
+  n_embed: 8
+  neg_start: 400 # {early : [1000, 800], 
+  neg_end: 200
+  params:
+    radius: 200
+    scale: 1.0
+    proj_ref_path : "caches/sd_sgf/i2p_sexual/repellency_proj_ref.pt"
+    cache_proj_ref : False
+    # proj_noisy_ref_path_for_beta : "caches/sd/memorization/repellency_noisy_proj_ref_for_beta.pt"
+    # cache_noisy_ref_path_for_beta : True
+    # beta_threshold : 1.0e-9
+    # beta_threshold_margin : 0.0 # >= 0.0
+
+# repellency dataset
+data:
+  name: diversity
+  root: datasets/imagenet
+  class_info : images/train

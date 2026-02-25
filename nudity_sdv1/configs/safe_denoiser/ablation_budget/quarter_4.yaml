@@ -1,0 +1,25 @@
+repellency:
+  method: safe_denoiser
+  n_embed: 8
+  neg_start: 1000 # {early : [1000, 800], 
+  neg_end: 50
+  params:
+    # sigma : 1.00
+    scale: 6.0e-3
+    proj_ref_path : "caches/sd_sgf/i2p_sexual/repellency_proj_ref.pt"
+    cache_proj_ref : False
+    # proj_noisy_ref_path_for_beta : "caches/sd/memorization/repellency_noisy_proj_ref_for_beta.pt"
+    # cache_noisy_ref_path_for_beta : True
+    # beta_threshold : 1.0e-9
+    # beta_threshold_margin : 0.0 # >= 0.0
+
+# repellency dataset
+data:
+  name: nudity
+  root: datasets/nudity
+  class_info : i2p_sexual
+
+# pred_xstart
+mean_processor:
+  dynamic_threshold: False
+  clip_denoised: True
