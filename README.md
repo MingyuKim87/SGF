@@ -25,6 +25,11 @@ Mingyu Kim, Young-Heon Kim and Mijung Park
 - [x] **Memorization (SD-v2.1):** memorization / replication setting.
 - [x] **Diversity (SD-v3):** diversity evaluation setting.
 
+## News
+
+- (Jan. 2026) Our paper has been accepted to [**ICLR 2026**](https://openreview.net/forum?id=EA80Zib9UI). 
+- (Feb. 2026) Our paper has been seleected for an **Oral Presentation** at [**ICLR 2026**](https://openreview.net/forum?id=EA80Zib9UI). 
+
 ---
 
 ## How to Run
