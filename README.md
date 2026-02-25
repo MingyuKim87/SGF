@@ -28,7 +28,7 @@ Mingyu Kim, Young-Heon Kim and Mijung Park
 ## News
 
 - (Jan. 2026) Our paper has been accepted to [**ICLR 2026**](https://openreview.net/forum?id=EA80Zib9UI). 
-- (Feb. 2026) Our paper has been seleected for an **Oral Presentation** at [**ICLR 2026**](https://openreview.net/forum?id=EA80Zib9UI). 
+- (Feb. 2026) Our paper has been selected for an **Oral Presentation** at [**ICLR 2026**](https://openreview.net/forum?id=EA80Zib9UI). 
 
 ---
 
