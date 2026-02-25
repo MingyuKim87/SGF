@@ -26,10 +26,11 @@ Mingyu Kim, Young-Heon Kim, and Mijung Park
 ---
 
 ## Run
-- Safety : Go to ReadMe.md
-- Memorization : Go to ReadMe.md
-- Diversity : Go to ReadMe.md
 
+- **Safety (SD-v1.4)**: see [`nudity_sdv1/README.md`](nudity_sdv1/README.md)
+- **Memorization (SD-v2.1)**: see [`memorized_sdv21/README.md`](memorized_sdv21/README.md)
+- **Diversity (SD-v3)**: see [`diversity_sdv3/README.md`](diversity_sdv3/README.md)
+- 
 ## Citation
 
 ```bibtex
