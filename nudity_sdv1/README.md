@@ -1,6 +1,6 @@
 <div align="center">
 
-# Safety-Guided Flow (SGF) : SD-v1 Nudity & CoCo-30k Task (ICLR2026 Oral)
+# Safety-Guided Flow (SGF): SD-v1 Nudity & CoCo-30k Task 
 
 <p align="center">
   [<a href="https://openreview.net/forum?id=EA80Zib9UI"><strong>OpenReview</strong></a>]
